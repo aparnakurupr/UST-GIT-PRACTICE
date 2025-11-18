@@ -1,0 +1,124 @@
+{
+  "info": {
+    "_postman_id": "efb379d0-ed3a-423d-88f2-2ac939dad6f0",
+    "name": "day-1",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "50161453",
+    "_collection_link": "https://aparnarkurup96-5420209.postman.co/workspace/2323f677-f0c3-40cd-895e-7448e6fbe87c/collection/50161453-efb379d0-ed3a-423d-88f2-2ac939dad6f0?action=share&source=collection_link&creator=50161453"
+  },
+  "item": [
+    {
+      "name": "GET",
+      "id": "0a9ba1ac-2dad-4592-8a30-9123d91dd68e",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.restful-api.dev/objects",
+          "protocol": "https",
+          "host": [
+            "api",
+            "restful-api",
+            "dev"
+          ],
+          "path": [
+            "objects"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "POST",
+      "id": "2c3bdc28-f17a-4bd9-817b-628cbe9f9ad2",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n   \"name\": \"Apple MacBook Pro 16\",\r\n   \"data\": {\r\n      \"year\": 2019,\r\n      \"price\": 1849.99,\r\n      \"CPU model\": \"Intel Core i9\",\r\n      \"Hard disk size\": \"1 TB\"\r\n   }\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://api.restful-api.dev/objects",
+          "protocol": "https",
+          "host": [
+            "api",
+            "restful-api",
+            "dev"
+          ],
+          "path": [
+            "objects"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "PUT",
+      "id": "39697b06-a944-4e10-8f36-8eb96a1c354a",
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n   \"name\": \"HP ELITE\",\r\n   \"data\": {\r\n      \"year\": 2024,\r\n      \"price\": 1996.99,\r\n      \"CPU model\": \"Intel Core i9\",\r\n      \"Hard disk size\": \"1 TB\"\r\n   }\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://api.restful-api.dev/objects/ff8081819782e69e019a96a617c518a9",
+          "protocol": "https",
+          "host": [
+            "api",
+            "restful-api",
+            "dev"
+          ],
+          "path": [
+            "objects",
+            "ff8081819782e69e019a96a617c518a9"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET-UNIQUE",
+      "id": "c2f11871-ab78-4716-a3c2-b963f0d08174",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "DELETE",
+      "id": "f383176f-4f30-433a-8154-05414a7c845a",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "https://api.restful-api.dev/objects/ff8081819782e69e019a96a617c518a9",
+          "protocol": "https",
+          "host": [
+            "api",
+            "restful-api",
+            "dev"
+          ],
+          "path": [
+            "objects",
+            "ff8081819782e69e019a96a617c518a9"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

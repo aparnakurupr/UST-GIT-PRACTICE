@@ -1,0 +1,182 @@
+{
+  "info": {
+    "_postman_id": "9d3d5623-9ae9-4340-814b-ad8bf098e220",
+    "name": "scripts",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "50161453",
+    "_collection_link": "https://aparnarkurup96-5420209.postman.co/workspace/2323f677-f0c3-40cd-895e-7448e6fbe87c/collection/50161453-9d3d5623-9ae9-4340-814b-ad8bf098e220?action=share&source=collection_link&creator=50161453"
+  },
+  "item": [
+    {
+      "name": "send_request",
+      "event": [
+        {
+          "listen": "prerequest",
+          "script": {
+            "id": "613e60ea-989e-4189-8ce3-13c8f2ced493",
+            "exec": [
+              "try {\r",
+              "    const response = await pm.sendRequest({\r",
+              "        url: \"https://postman-echo.com/get\",\r",
+              "        method: \"GET\"\r",
+              "    });\r",
+              "\r",
+              "    console.log(response.json());\r",
+              "} catch (err) {\r",
+              "    console.error(err);\r",
+              "}"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        },
+        {
+          "listen": "test",
+          "script": {
+            "id": "fc38f36d-c425-4818-b363-d05ff03bc997",
+            "exec": [
+              "pm.test(\"Status code is 200\", function () {\r",
+              "    pm.response.to.have.status(200);\r",
+              "});"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "id": "85a84775-4850-40d7-8c45-ee4d76b1bb75",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://postman-echo.com/get",
+          "protocol": "https",
+          "host": [
+            "postman-echo",
+            "com"
+          ],
+          "path": [
+            "get"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "post_request",
+      "event": [
+        {
+          "listen": "prerequest",
+          "script": {
+            "id": "8bb6dc8f-8b3e-4758-9b61-63fea51a9286",
+            "exec": [
+              "try {\r",
+              "    const response = await pm.sendRequest({\r",
+              "        url: \"https://postman-echo.com/post\",\r",
+              "        method: \"POST\"\r",
+              "    });\r",
+              "\r",
+              "    console.log(response.json());\r",
+              "} catch (err) {\r",
+              "    console.error(err);\r",
+              "}"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        },
+        {
+          "listen": "test",
+          "script": {
+            "id": "fc422ca7-dd23-4ea0-94dd-7cf810f7833a",
+            "exec": [
+              "pm.test(\"Status code is 200\", function () {\r",
+              "    pm.response.to.have.status(200);\r",
+              "});"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "id": "5c585e39-6c76-4081-ab88-8d3d8b55aae2",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://postman-echo.com/post",
+          "protocol": "https",
+          "host": [
+            "postman-echo",
+            "com"
+          ],
+          "path": [
+            "post"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "put_request",
+      "event": [
+        {
+          "listen": "prerequest",
+          "script": {
+            "id": "25dcf95c-8150-48ae-b00c-d94bf0e8de72",
+            "exec": [
+              "try {\r",
+              "    const response = await pm.sendRequest({\r",
+              "        url: \"https://postman-echo.com/put\",\r",
+              "        method: \"PUT\"\r",
+              "    });\r",
+              "\r",
+              "    console.log(response.json());\r",
+              "} catch (err) {\r",
+              "    console.error(err);\r",
+              "}"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        },
+        {
+          "listen": "test",
+          "script": {
+            "id": "3954a4ea-84fb-492d-9dbe-4d468b17c2de",
+            "exec": [
+              "pm.test(\"Status code is 200\", function () {\r",
+              "    pm.response.to.have.status(200);\r",
+              "});"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "id": "c91902fe-5ca5-4921-875a-c2d0b0069207",
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "url": {
+          "raw": "https://postman-echo.com/put",
+          "protocol": "https",
+          "host": [
+            "postman-echo",
+            "com"
+          ],
+          "path": [
+            "put"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

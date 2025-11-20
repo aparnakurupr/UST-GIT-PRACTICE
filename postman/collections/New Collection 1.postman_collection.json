@@ -1,0 +1,51 @@
+{
+  "info": {
+    "_postman_id": "19f516e2-251d-4cf5-80a4-dc8dfc7331ed",
+    "name": "New Collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "GET XML",
+      "event": [
+        {
+          "listen": "prerequest",
+          "script": {
+            "exec": [
+              ""
+            ],
+            "type": "text/javascript"
+          }
+        },
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "var xmlData = xml2Json(pm.response.text());\r",
+              "pm.environment.set(\"toValue\",xmlData.note.to);\r",
+              "pm.environment.set(\"fromValue\", xmlData.note.from);\r",
+              "console.log(\"toValue=\", xmlData.note.to);"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "https://www.w3schools.com/xml/note.xml",
+          "protocol": "https",
+          "host": [
+            "www",
+            "w3schools",
+            "com"
+          ],
+          "path": [
+            "xml",
+            "note.xml"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "_postman_id": "38587a7a-d778-4861-8de4-36ea32f71ac2",
+    "name": "New Collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "jwt",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status code is 2xx for successful login\", function () {\r",
+              "    if (pm.response.code >= 200 && pm.response.code < 300) {\r",
+              "        var jsonData = pm.response.json();\r",
+              "        pm.expect(jsonData).to.have.property(\"access_token\");\r",
+              "    }\r",
+              "});\r",
+              "pm.test(\"Unauthorized returns 401\", function () {\r",
+              "    if (pm.response.code === 401) {\r",
+              "        var jsonData = pm.response.json();\r",
+              "        pm.expect(jsonData).to.have.property(\"message\");\r",
+              "        pm.expect(jsonData.message.toLowerCase()).to.include(\"Unauthorized\");\r",
+              "    }\r",
+              "});\r",
+              "pm.test(\"Handle common error codes\",function (){\r",
+              "    pm.expect([200,2001,400,401,403,404,500]).to.include(pm.response.code);\r",
+              "});"
+            ],
+            "type": "text/javascript"
+          }
+        },
+        {
+          "listen": "prerequest",
+          "script": {
+            "exec": [
+              ""
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"email\" :\"john@mail.com\",\r\n    \"password\" :\"changeme\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://api.escuelajs.co/api/v1/auth/login",
+          "protocol": "https",
+          "host": [
+            "api",
+            "escuelajs",
+            "co"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "auth",
+            "login"
+          ]
+        }
+      }
+    }
+  ]
+}

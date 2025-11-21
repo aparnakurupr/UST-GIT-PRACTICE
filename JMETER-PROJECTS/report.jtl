@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1763532459769,589,Post-Request,301,Moved Permanently,Thread Group 1-1,,true,,645,234,1,1,http://postman-echo.com/post,585,0,67
+1763532460373,476,PUT Request,301,Moved Permanently,Thread Group 1-1,,true,,644,232,1,1,http://postman-echo.com/put,476,0,0

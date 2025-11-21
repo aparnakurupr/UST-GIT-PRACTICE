@@ -7,6 +7,31 @@
   "item": [
     {
       "name": "createuser",
+      "event": [
+        {
+          "listen": "prerequest",
+          "script": {
+            "exec": [
+              ""
+            ],
+            "type": "text/javascript"
+          }
+        },
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Content-Type is present\", function () {\r",
+              "    pm.response.to.have.header(\"Content-Type\");\r",
+              "    const myvar = pm.environment.get(\"myvar\");\r",
+              "    console.log(\"hello\" + \" \" + myvar)\r",
+              "});\r",
+              ""
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
       "request": {
         "auth": {
           "type": "bearer",
@@ -21,7 +46,7 @@
         "method": "POST",
         "body": {
           "mode": "raw",
-          "raw": "{\n    \"message\": \"✨ Statement executed successfully ✨\"\n}"
+          "raw": "{\n    \"id\": \"{{userid}}\",\n    \"name\":\"{{name}}\"\n\n}"
         },
         "url": {
           "raw": "https://postman-echo.com/post",

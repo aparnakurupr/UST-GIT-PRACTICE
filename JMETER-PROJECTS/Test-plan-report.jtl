@@ -1,0 +1,203 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1763933565909,1056,success,201,Created,Thread Group-JWT 1-1,text,true,,1812,253,1,1,https://api.escuelajs.co/api/v1/auth/login,1049,0,824
+1763933567011,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-1,text,false,,1534,254,1,1,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935499000,1128,success,201,Created,Thread Group-JWT 1-81,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1128,0,913
+1763935499017,1136,success,201,Created,Thread Group-JWT 1-100,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1136,0,922
+1763935498124,2030,success,201,Created,Thread Group-JWT 1-12,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2030,0,1814
+1763935499013,1084,success,201,Created,Thread Group-JWT 1-98,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1084,0,871
+1763935498982,1174,success,201,Created,Thread Group-JWT 1-71,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1174,0,960
+1763935499010,1080,success,201,Created,Thread Group-JWT 1-94,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1080,0,857
+1763935499014,1112,success,201,Created,Thread Group-JWT 1-97,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1112,0,896
+1763935498983,1176,success,201,Created,Thread Group-JWT 1-75,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1176,0,963
+1763935499003,1087,success,201,Created,Thread Group-JWT 1-84,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1087,0,864
+1763935498417,1710,success,201,Created,Thread Group-JWT 1-39,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1710,0,1495
+1763935498252,1841,success,201,Created,Thread Group-JWT 1-24,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1841,0,1630
+1763935499010,1030,success,201,Created,Thread Group-JWT 1-95,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1030,0,819
+1763935498151,1872,success,201,Created,Thread Group-JWT 1-15,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1861,0,1646
+1763935498982,1180,success,201,Created,Thread Group-JWT 1-73,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1180,0,967
+1763935498214,1846,success,201,Created,Thread Group-JWT 1-21,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1846,0,1631
+1763935499007,1160,success,201,Created,Thread Group-JWT 1-89,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1160,0,936
+1763935498982,1185,success,201,Created,Thread Group-JWT 1-74,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1185,0,973
+1763935498976,1197,success,201,Created,Thread Group-JWT 1-66,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1197,0,979
+1763935498372,1680,success,201,Created,Thread Group-JWT 1-35,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1680,0,1467
+1763935498111,1936,success,201,Created,Thread Group-JWT 1-11,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1936,0,1718
+1763935498985,1060,success,201,Created,Thread Group-JWT 1-78,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1060,0,842
+1763935499009,1053,success,201,Created,Thread Group-JWT 1-93,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1053,0,837
+1763935498737,1449,success,201,Created,Thread Group-JWT 1-54,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1449,0,1236
+1763935498381,1668,success,201,Created,Thread Group-JWT 1-36,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1667,0,1447
+1763935499009,1035,success,201,Created,Thread Group-JWT 1-91,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1035,0,819
+1763935498280,1743,success,201,Created,Thread Group-JWT 1-27,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1732,0,1507
+1763935498083,1940,success,201,Created,Thread Group-JWT 1-5,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1929,0,1695
+1763935498540,1517,success,201,Created,Thread Group-JWT 1-44,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1517,0,1302
+1763935499009,1014,success,201,Created,Thread Group-JWT 1-92,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1003,0,763
+1763935498978,1210,success,201,Created,Thread Group-JWT 1-68,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1210,0,979
+1763935498460,1730,success,201,Created,Thread Group-JWT 1-41,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1730,0,1515
+1763935498981,1212,success,201,Created,Thread Group-JWT 1-72,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1212,0,997
+1763935498969,1059,success,201,Created,Thread Group-JWT 1-65,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1059,0,843
+1763935498578,1616,success,201,Created,Thread Group-JWT 1-50,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1616,0,1405
+1763935499006,1053,success,201,Created,Thread Group-JWT 1-88,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1053,0,839
+1763935498985,1158,success,201,Created,Thread Group-JWT 1-76,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1158,0,943
+1763935498989,1207,success,201,Created,Thread Group-JWT 1-80,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1207,0,992
+1763935499008,1133,success,201,Created,Thread Group-JWT 1-90,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1133,0,921
+1763935498762,1365,success,201,Created,Thread Group-JWT 1-61,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1365,0,1145
+1763935498349,1708,success,201,Created,Thread Group-JWT 1-33,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1708,0,1490
+1763935498742,1383,success,201,Created,Thread Group-JWT 1-59,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1383,0,1162
+1763935498753,1447,success,201,Created,Thread Group-JWT 1-60,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1447,0,1237
+1763935498999,1094,success,201,Created,Thread Group-JWT 1-82,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1094,0,872
+1763935498792,1410,success,201,Created,Thread Group-JWT 1-63,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1410,0,1193
+1763935498163,2042,success,201,Created,Thread Group-JWT 1-16,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2042,0,1826
+1763935498316,1890,success,201,Created,Thread Group-JWT 1-30,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1890,0,1675
+1763935498979,1146,success,201,Created,Thread Group-JWT 1-69,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1146,0,925
+1763935498977,1062,success,201,Created,Thread Group-JWT 1-67,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1062,0,826
+1763935498566,1643,success,201,Created,Thread Group-JWT 1-48,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1643,0,1432
+1763935498979,1135,success,201,Created,Thread Group-JWT 1-70,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1135,0,923
+1763935498341,1870,success,201,Created,Thread Group-JWT 1-32,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1870,0,1658
+1763935498460,1755,success,201,Created,Thread Group-JWT 1-42,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1755,0,1543
+1763935498738,1479,success,201,Created,Thread Group-JWT 1-55,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1479,0,1265
+1763935498733,1488,success,201,Created,Thread Group-JWT 1-53,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1488,0,1270
+1763935498236,1787,success,201,Created,Thread Group-JWT 1-23,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1778,0,1566
+1763935498131,1952,success,201,Created,Thread Group-JWT 1-13,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1952,0,1736
+1763935498392,1724,success,201,Created,Thread Group-JWT 1-37,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1724,0,1510
+1763935498082,2144,success,201,Created,Thread Group-JWT 1-3,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2144,0,1932
+1763935499011,1075,success,201,Created,Thread Group-JWT 1-96,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1075,0,860
+1763935498306,1773,success,201,Created,Thread Group-JWT 1-29,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1773,0,1560
+1763935498204,2025,success,201,Created,Thread Group-JWT 1-20,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2025,0,1811
+1763935498083,2142,success,201,Created,Thread Group-JWT 1-6,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2142,0,1927
+1763935498227,2004,success,201,Created,Thread Group-JWT 1-22,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2004,0,1790
+1763935498360,1872,success,201,Created,Thread Group-JWT 1-34,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1872,0,1657
+1763935498082,2152,success,201,Created,Thread Group-JWT 1-8,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2152,0,1936
+1763935498196,2047,success,201,Created,Thread Group-JWT 1-19,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2047,0,1834
+1763935498584,1662,success,201,Created,Thread Group-JWT 1-51,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1662,0,1446
+1763935498269,1978,success,201,Created,Thread Group-JWT 1-26,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1978,0,1767
+1763935498408,1691,success,201,Created,Thread Group-JWT 1-38,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1691,0,1480
+1763935498082,2173,success,201,Created,Thread Group-JWT 1-4,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2173,0,1961
+1763935498618,1651,success,201,Created,Thread Group-JWT 1-52,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1651,0,1434
+1763935498795,1485,success,201,Created,Thread Group-JWT 1-64,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1485,0,1274
+1763935498564,1719,success,201,Created,Thread Group-JWT 1-45,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1719,0,1505
+1763935499015,1268,success,201,Created,Thread Group-JWT 1-99,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1268,0,1055
+1763935498987,1298,success,201,Created,Thread Group-JWT 1-79,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1298,0,1086
+1763935498770,1518,success,201,Created,Thread Group-JWT 1-62,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1518,0,1301
+1763935498567,1723,success,201,Created,Thread Group-JWT 1-49,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1723,0,1502
+1763935498517,1775,success,201,Created,Thread Group-JWT 1-43,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1775,0,1554
+1763935498258,2035,success,201,Created,Thread Group-JWT 1-25,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2035,0,1814
+1763935498740,1555,success,201,Created,Thread Group-JWT 1-57,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1555,0,1333
+1763935499005,1292,success,201,Created,Thread Group-JWT 1-86,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1292,0,1066
+1763935498326,1972,success,201,Created,Thread Group-JWT 1-31,text,true,,1812,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1972,0,1491
+1763935499005,1294,success,201,Created,Thread Group-JWT 1-87,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1294,0,1067
+1763935498985,1317,success,201,Created,Thread Group-JWT 1-77,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1317,0,1091
+1763935499003,1299,success,201,Created,Thread Group-JWT 1-83,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1299,0,1073
+1763935498564,1743,success,201,Created,Thread Group-JWT 1-46,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1743,0,1513
+1763935498082,2226,success,201,Created,Thread Group-JWT 1-2,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2226,0,1992
+1763935498141,2171,success,201,Created,Thread Group-JWT 1-14,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2171,0,1935
+1763935498186,2129,success,201,Created,Thread Group-JWT 1-18,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2129,0,1889
+1763935498751,1567,success,201,Created,Thread Group-JWT 1-58,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,1567,0,1327
+1763935498172,2149,success,201,Created,Thread Group-JWT 1-17,text,true,,1800,253,100,100,https://api.escuelajs.co/api/v1/auth/login,2148,0,1906
+1763935500156,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-98,text,false,,1530,254,100,100,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500158,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-71,text,false,,1530,254,100,100,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500157,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-100,text,false,,1530,254,100,100,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500159,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-94,text,false,,1530,254,100,100,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500159,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-12,text,false,,1530,254,100,100,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500163,217,when password is wrong,401,Unauthorized,Thread Group-JWT 1-24,text,false,,1530,254,95,95,https://api.escuelajs.co/api/v1/auth/login,217,0,0
+1763935500169,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-81,text,false,,1530,254,95,95,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500163,215,when password is wrong,401,Unauthorized,Thread Group-JWT 1-39,text,false,,1530,254,96,96,https://api.escuelajs.co/api/v1/auth/login,215,0,0
+1763935500160,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-75,text,false,,1530,254,100,100,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500162,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-84,text,false,,1530,254,100,100,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500163,216,when password is wrong,401,Unauthorized,Thread Group-JWT 1-73,text,false,,1530,254,95,95,https://api.escuelajs.co/api/v1/auth/login,216,0,0
+1763935500171,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-89,text,false,,1530,254,92,92,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500172,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-74,text,false,,1530,254,92,92,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500161,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-97,text,false,,1530,254,100,100,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500176,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-35,text,false,,1530,254,88,88,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500174,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-66,text,false,,1530,254,88,88,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500166,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-21,text,false,,1530,254,95,95,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500163,215,when password is wrong,401,Unauthorized,Thread Group-JWT 1-15,text,false,,1530,254,95,95,https://api.escuelajs.co/api/v1/auth/login,215,0,0
+1763935500163,216,when password is wrong,401,Unauthorized,Thread Group-JWT 1-95,text,false,,1530,254,95,95,https://api.escuelajs.co/api/v1/auth/login,216,0,0
+1763935500179,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-11,text,false,,1530,254,84,84,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500185,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-78,text,false,,1530,254,80,80,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935498739,1657,success,201,Created,Thread Group-JWT 1-56,text,true,,1800,253,80,80,https://api.escuelajs.co/api/v1/auth/login,1657,0,1177
+1763935500188,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-5,text,false,,1530,254,79,79,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500188,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-27,text,false,,1530,254,79,79,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500188,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-54,text,false,,1530,254,77,77,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500190,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-68,text,false,,1530,254,76,76,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500189,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-91,text,false,,1530,254,76,76,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500190,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-92,text,false,,1530,254,75,75,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500191,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-44,text,false,,1530,254,76,76,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500191,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-41,text,false,,1530,254,74,74,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500193,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-72,text,false,,1530,254,72,72,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500192,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-36,text,false,,1530,254,71,71,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500192,215,when password is wrong,401,Unauthorized,Thread Group-JWT 1-93,text,false,,1530,254,70,70,https://api.escuelajs.co/api/v1/auth/login,215,0,0
+1763935500196,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-65,text,false,,1530,254,70,70,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500198,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-90,text,false,,1530,254,67,67,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500197,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-88,text,false,,1530,254,69,69,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500201,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-60,text,false,,1530,254,66,66,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500198,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-80,text,false,,1530,254,67,67,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500199,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-59,text,false,,1530,254,66,66,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500203,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-63,text,false,,1530,254,64,64,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500203,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-82,text,false,,1530,254,62,62,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500207,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-30,text,false,,1530,254,61,61,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500206,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-16,text,false,,1530,254,60,60,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500209,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-67,text,false,,1530,254,60,60,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500205,216,when password is wrong,401,Unauthorized,Thread Group-JWT 1-61,text,false,,1530,254,57,57,https://api.escuelajs.co/api/v1/auth/login,216,0,0
+1763935500210,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-48,text,false,,1530,254,57,57,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500208,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-33,text,false,,1530,254,57,57,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500213,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-32,text,false,,1530,254,54,54,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500211,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-70,text,false,,1530,254,54,54,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500216,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-42,text,false,,1530,254,52,52,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500195,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-50,text,false,,1530,254,70,70,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500218,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-55,text,false,,1530,254,51,51,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500223,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-13,text,false,,1530,254,50,50,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500223,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-23,text,false,,1530,254,49,49,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500222,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-53,text,false,,1530,254,49,49,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500228,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-3,text,false,,1530,254,46,46,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500231,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-22,text,false,,1530,254,45,45,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500230,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-6,text,false,,1530,254,44,44,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500232,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-37,text,false,,1530,254,44,44,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500233,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-29,text,false,,1530,254,42,42,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500231,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-20,text,false,,1530,254,42,42,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500234,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-96,text,false,,1530,254,41,41,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500235,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-8,text,false,,1530,254,39,39,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500233,216,when password is wrong,401,Unauthorized,Thread Group-JWT 1-34,text,false,,1530,254,39,39,https://api.escuelajs.co/api/v1/auth/login,216,0,0
+1763935500245,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-19,text,false,,1530,254,37,37,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500247,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-51,text,false,,1530,254,37,37,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500248,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-26,text,false,,1530,254,36,36,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500249,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-38,text,false,,1530,254,35,35,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500257,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-4,text,false,,1530,254,33,33,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500270,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-52,text,false,,1530,254,32,32,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935498566,1925,success,201,Created,Thread Group-JWT 1-47,text,true,,1800,253,31,31,https://api.escuelajs.co/api/v1/auth/login,1925,0,1447
+1763935500282,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-64,text,false,,1530,254,31,31,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500285,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-99,text,false,,1530,254,30,30,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500284,215,when password is wrong,401,Unauthorized,Thread Group-JWT 1-45,text,false,,1530,254,29,29,https://api.escuelajs.co/api/v1/auth/login,215,0,0
+1763935500289,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-62,text,false,,1530,254,28,28,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500287,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-79,text,false,,1530,254,28,28,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500293,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-43,text,false,,1530,254,26,26,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500291,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-49,text,false,,1530,254,26,26,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500296,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-57,text,false,,1530,254,25,25,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500294,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-25,text,false,,1530,254,25,25,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500298,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-86,text,false,,1530,254,22,22,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500299,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-31,text,false,,1530,254,22,22,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500300,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-87,text,false,,1530,254,21,21,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500303,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-83,text,false,,1530,254,19,19,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500303,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-77,text,false,,1530,254,19,19,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500310,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-2,text,false,,1530,254,17,17,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500309,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-46,text,false,,1530,254,16,16,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935500313,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-14,text,false,,1530,254,16,16,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500318,210,when password is wrong,401,Unauthorized,Thread Group-JWT 1-58,text,false,,1530,254,14,14,https://api.escuelajs.co/api/v1/auth/login,210,0,0
+1763935500316,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-18,text,false,,1530,254,14,14,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500321,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-17,text,false,,1530,254,12,12,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500397,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-56,text,false,,1530,254,11,11,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500197,487,when password is wrong,401,Unauthorized,Thread Group-JWT 1-76,text,false,,1530,254,10,10,https://api.escuelajs.co/api/v1/auth/login,487,0,0
+1763935500493,221,when password is wrong,401,Unauthorized,Thread Group-JWT 1-47,text,false,,1530,254,9,9,https://api.escuelajs.co/api/v1/auth/login,221,0,0
+1763935498451,2364,success,201,Created,Thread Group-JWT 1-40,text,true,,1800,253,8,8,https://api.escuelajs.co/api/v1/auth/login,2364,0,1521
+1763935498083,2750,success,201,Created,Thread Group-JWT 1-7,text,true,,1800,253,8,8,https://api.escuelajs.co/api/v1/auth/login,2750,0,1904
+1763935498082,2813,success,201,Created,Thread Group-JWT 1-1,text,true,,1800,253,8,8,https://api.escuelajs.co/api/v1/auth/login,2813,0,1958
+1763935499004,1921,success,201,Created,Thread Group-JWT 1-85,text,true,,1800,253,8,8,https://api.escuelajs.co/api/v1/auth/login,1921,0,1073
+1763935498291,2671,success,201,Created,Thread Group-JWT 1-28,text,true,,1800,253,8,8,https://api.escuelajs.co/api/v1/auth/login,2671,0,2458
+1763935500817,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-40,text,false,,1530,254,8,8,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500836,214,when password is wrong,401,Unauthorized,Thread Group-JWT 1-7,text,false,,1530,254,7,7,https://api.escuelajs.co/api/v1/auth/login,214,0,0
+1763935498088,3020,success,201,Created,Thread Group-JWT 1-9,text,true,,1800,253,6,6,https://api.escuelajs.co/api/v1/auth/login,3020,0,1918
+1763935500899,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-1,text,false,,1534,254,6,6,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935500927,213,when password is wrong,401,Unauthorized,Thread Group-JWT 1-85,text,false,,1534,254,5,5,https://api.escuelajs.co/api/v1/auth/login,213,0,0
+1763935500965,211,when password is wrong,401,Unauthorized,Thread Group-JWT 1-28,text,false,,1534,254,4,4,https://api.escuelajs.co/api/v1/auth/login,211,0,0
+1763935500209,1080,when password is wrong,401,Unauthorized,Thread Group-JWT 1-69,text,false,,1530,254,3,3,https://api.escuelajs.co/api/v1/auth/login,1080,0,0
+1763935501110,212,when password is wrong,401,Unauthorized,Thread Group-JWT 1-9,text,false,,1534,254,2,2,https://api.escuelajs.co/api/v1/auth/login,212,0,0
+1763935498096,4022,success,201,Created,Thread Group-JWT 1-10,text,true,,1816,253,1,1,https://api.escuelajs.co/api/v1/auth/login,4022,0,1959
+1763935502120,479,when password is wrong,401,Unauthorized,Thread Group-JWT 1-10,text,false,,1546,254,1,1,https://api.escuelajs.co/api/v1/auth/login,479,0,0

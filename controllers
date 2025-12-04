@@ -1,0 +1,13 @@
+while controller
+${__javaScript(${count} <= 3,)} -condition
+vars.put("count", String.valueOf(Integer.parseInt(vars.get("count")) + 1)) -POSTPROCESSOR
+server -www.google.com
+
+if controller
+
+condition - ${__groovy(vars.get("runRequest") == "true")}
+server - jsonplaceholder.typicode.com
+User defined variables- runRequest=	true	
+
+Timers &assertion
+www.google.com
